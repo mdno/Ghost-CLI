@@ -39,7 +39,7 @@
   "preferGlobal": true,
   "dependencies": {
     "abbrev": "1.1.0",
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.4.9",
     "bluebird": "3.5.0",
     "chalk": "2.1.0",
     "cli-table2": "0.2.0",
