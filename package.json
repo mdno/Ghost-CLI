@@ -31,7 +31,9 @@
     "test:unit": "istanbul cover _mocha -- --recursive test/unit extensions/**/test",
     "test:acceptance": "mocha --timeout 10000 test/acceptance/**/*-spec.js",
     "test:all": "yarn run test:unit && yarn run test:acceptance",
-    "test": "yarn run lint && yarn run test:all"
+    "test": "yarn run lint && yarn run test:all",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "engines": {
     "node": "^4.5.0 || ^6.5.0"
@@ -53,7 +55,7 @@
     "ghost-ignition": "2.8.13",
     "inquirer": "3.2.1",
     "is-running": "2.1.0",
-    "knex-migrator": "2.1.6",
+    "knex-migrator": "3.1.5",
     "listr": "0.12.0",
     "lodash": "4.17.4",
     "log-symbols": "2.0.0",
@@ -72,7 +74,8 @@
     "update-notifier": "2.2.0",
     "validator": "7.2.0",
     "yargs": "8.0.2",
-    "yarn": "0.27.5"
+    "yarn": "0.27.5",
+    "snyk": "^1.83.0"
   },
   "devDependencies": {
     "chai": "4.1.1",
@@ -91,5 +94,6 @@
     "skip": {
       "tag": true
     }
-  }
+  },
+  "snyk": true
 }
