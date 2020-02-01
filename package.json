@@ -69,7 +69,7 @@
     "strip-ansi": "4.0.0",
     "symlink-or-copy": "1.1.8",
     "tail": "1.2.2",
-    "update-notifier": "2.2.0",
+    "update-notifier": "4.0.0",
     "validator": "7.2.0",
     "yargs": "8.0.2",
     "yarn": "0.27.5"
