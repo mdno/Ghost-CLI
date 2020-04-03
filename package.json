@@ -44,7 +44,7 @@
     "chalk": "2.1.0",
     "cli-table2": "0.2.0",
     "debug": "3.0.0",
-    "decompress": "4.2.0",
+    "decompress": "4.2.1",
     "download": "6.2.5",
     "execa": "0.8.0",
     "find-plugins": "1.0.3",
