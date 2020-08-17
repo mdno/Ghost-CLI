@@ -55,7 +55,7 @@
     "is-running": "2.1.0",
     "knex-migrator": "2.1.6",
     "listr": "0.12.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.20",
     "log-symbols": "2.0.0",
     "mysql": "2.14.1",
     "ora": "1.3.0",
