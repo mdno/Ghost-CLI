@@ -53,8 +53,8 @@
     "ghost-ignition": "2.8.13",
     "inquirer": "3.2.1",
     "is-running": "2.1.0",
-    "knex-migrator": "2.1.6",
-    "listr": "0.12.0",
+    "knex-migrator": "3.2.5",
+    "listr": "0.14.2",
     "lodash": "4.17.4",
     "log-symbols": "2.0.0",
     "mysql": "2.14.1",
@@ -66,13 +66,13 @@
     "semver": "5.4.1",
     "shasum": "1.0.2",
     "stat-mode": "0.2.2",
-    "strip-ansi": "4.0.0",
+    "strip-ansi": "7.0.0",
     "symlink-or-copy": "1.1.8",
     "tail": "1.2.2",
     "update-notifier": "2.2.0",
     "validator": "7.2.0",
     "yargs": "8.0.2",
-    "yarn": "0.27.5"
+    "yarn": "0.28.1"
   },
   "devDependencies": {
     "chai": "4.1.1",
