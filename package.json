@@ -50,11 +50,11 @@
     "find-plugins": "1.0.3",
     "fkill": "5.0.0",
     "fs-extra": "4.0.1",
-    "ghost-ignition": "2.8.13",
+    "ghost-ignition": "4.6.2",
     "inquirer": "3.2.1",
     "is-running": "2.1.0",
-    "knex-migrator": "2.1.6",
-    "listr": "0.12.0",
+    "knex-migrator": "4.0.4",
+    "listr": "0.14.2",
     "lodash": "4.17.4",
     "log-symbols": "2.0.0",
     "mysql": "2.14.1",
@@ -69,10 +69,10 @@
     "strip-ansi": "4.0.0",
     "symlink-or-copy": "1.1.8",
     "tail": "1.2.2",
-    "update-notifier": "2.2.0",
+    "update-notifier": "4.0.0",
     "validator": "7.2.0",
-    "yargs": "8.0.2",
-    "yarn": "0.27.5"
+    "yargs": "13.2.4",
+    "yarn": "0.28.1"
   },
   "devDependencies": {
     "chai": "4.1.1",
